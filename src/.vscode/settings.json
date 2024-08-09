@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "ncurses.h": "c",
+        "s21_maze.h": "c"
+    }
+}
